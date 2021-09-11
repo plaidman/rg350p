@@ -2,7 +2,7 @@
 
 rm -f /media/data/local/bin/*_libretro*.sh
 
-if [ "$1" = "clean" ]; then
+if [ "$1" = "--clean" ]; then
   exit 0
 fi
 
