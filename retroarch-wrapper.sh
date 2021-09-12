@@ -6,6 +6,8 @@ if [ "$1" = "--clean" ]; then
   exit 0
 fi
 
+chmod 777 /media/data/local/bin/retroarch_rg350_odbeta
+
 for corepath in /media/data/local/home/.retroarch/cores/*.so; do
   core=`basename ${corepath}`
 
