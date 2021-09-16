@@ -1,0 +1,4 @@
+title=RetroArch
+description=RetroArch
+exec=/media/data/local/bin/retroarch.sh reminiscence /media/sdcard/roms/flashback/LEVEL1.LEV
+icon=skin:icons/icon.png
