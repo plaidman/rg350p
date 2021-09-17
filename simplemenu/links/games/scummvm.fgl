@@ -1,4 +1,5 @@
 title=ScummVM
 description=ScummVM
-exec=/media/data/apps/scummvm_gcw0_odbeta.opk
+#exec=/media/data/apps/scummvm_gcw0_odbeta.opk
+exec=/media/data/local/bin/retroarch.sh scummvm
 icon=skin:icons/icon.png
